@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jozef Patrnciak / Site Title"
 title_separator          : "-"
 name                     : &name "Jozef Patrnciak"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Economist with a not-so-secret love for, Econometrics and Statistics. "   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://JozefPatrnciak.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "JozefPatrnciak/JozefPatrnciak.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,21 +26,21 @@ author:
   avatar           : "profile.png"
   name             : "Jozef Patrnciak"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-#  location         : "Earth"
+  bio              : "Applied economist studying technological change, legal services, labour markets, human capital, and economic institutions."
+  location         : "Earth"
   employer         : "Utrecht University"
-  uri              : # URL
+  uri              : "https://www.uu.nl/staff/JPatrnciak"
   email            : "j.patrnciak@uu.nl" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Gz8oqfsAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
-  ssrn             : # URL
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2781603"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
