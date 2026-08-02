@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jozef Patrnciak / Site Title"
+title                    : "Jozef Patrnciak"
 title_separator          : "-"
 name                     : &name "Jozef Patrnciak"
 description              : &description "Economist with a not-so-secret love for, Econometrics and Statistics. "   # Update this with a general description of your site, this is the default if not overridden by a page
